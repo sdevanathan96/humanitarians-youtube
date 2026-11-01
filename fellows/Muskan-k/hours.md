@@ -4,6 +4,10 @@ Logged weekly, in the week it happened. These are hours worked.
 
 | Week | Sprint work | Sprint hrs | STEM topic | STEM hrs | Total |
 |---|---|---|---|---|---|
+| 4–8 Aug | Vendor-intel kickoff — fifty vendors, one brief; the wrong-Cohere identity fix | 12 | Agent loops — when to stop | 10 | 22 |
+| 11–15 Aug | Brief verify pass — "confidently wrong" caught | 12 | Where RAG Breaks | 10 | 22 |
+| 18–22 Aug | Hallucination debug — don't blame the prompt | 12 | Brief eval harness (caught by code) | 11 | 23 |
+| 25–29 Aug | UNKNOWN guardrails — a request, not a guarantee | 13 | Open vs Closed AI | 11 | 24 |
 | 1–5 Sep | Vendor briefs — baseline, entity / UNKNOWN follow-ups | 11 | Multimodal AI | 10 | 21 |
 | 8–12 Sep | Wrong-company signals cleaned, deprecated lib migrated, broken collectors fixed | 13 | Agent Harness | 10 | 23 |
 | 15–19 Sep | Collector accuracy + entity-check hardening | 12 | AI's Four Chips (CPU · GPU · TPU · NPU) | 11 | 23 |
@@ -11,7 +15,8 @@ Logged weekly, in the week it happened. These are hours worked.
 | 29 Sep – 3 Oct | Langfuse trace grouping — one brief, one trace | 12 | Small Language Models | 11 | 23 |
 | 6–10 Oct | Reliability — model config, 10-K/A bug, service timeouts | 13 | Agentic Dev Life Cycle | 11 | 24 |
 | 13–17 Oct | Structured logging (225 prints → logs) + validated Settings | 14 | KV Caching | 11 | 25 |
-| **To date** | | **88** | | **75** | **163** |
+| 20–24 Oct | Split reviewer/viewer dashboards (least-privilege) + silent-correction fix | 12 | Mixture of Experts | 11 | 23 |
+| **To date** | | **149** | | **128** | **277** |
 
 **Sprint hrs** is project and research work on the vendor-intelligence system
 (collectors, the agent graph, reliability and observability). **STEM hrs** is the
