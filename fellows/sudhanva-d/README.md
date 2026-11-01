@@ -16,6 +16,5 @@ Kokoro `am_onyx` for every report.
 
 ## Frictional note
 
-Each weekly folder carries a `FRICTIONAL.md`: dated entries on what was tried,
-where the work resisted, what Claude contributed and what was kept or changed,
-and what is still open.
+Each weekly folder carries a `FRICTIONAL.md` with dated entries on what was tried
+and where the work resisted.
